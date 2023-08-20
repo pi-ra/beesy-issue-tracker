@@ -28,16 +28,18 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: Environment details
+    label: Environment including version:
     description: |
       examples:
+        - **Beesy**: v0.0.11 (get version from: chrome://extensions/?id=eabicnldgjknbifdgmnieblkbnggfnde)
         - **OS**: macOS Ventura 13.4.1
         - **Browser**: Google Chrome v115.0.5790.170 (Official Build) (arm64)
         - **Media Player**: VLC v3.0.18 Vetinari (Intel 64bit)
     value: |
-        - OS (Windows / Linux / macOS):
-        - Browser (Chrome / MS Edge):
-        - Media Player (VLC):
+        - Beesy: 
+        - OS:
+        - Browser:
+        - Media Player:
     render: Markdown
   validations:
     required: true
