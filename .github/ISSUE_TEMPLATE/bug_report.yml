@@ -28,7 +28,7 @@ body:
     required: true
 - type: textarea
   attributes:
-    label: Environment including version:
+    label: Environment including version
     description: |
       examples:
         - **Beesy**: v0.0.11 (get version from: chrome://extensions/?id=eabicnldgjknbifdgmnieblkbnggfnde)
