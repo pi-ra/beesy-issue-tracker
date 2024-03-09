@@ -5,10 +5,13 @@
 Download: \
 [![Chrome](https://img.shields.io/chrome-web-store/v/eabicnldgjknbifdgmnieblkbnggfnde)](https://chrome.google.com/webstore/detail/beesy-record-google-meets/eabicnldgjknbifdgmnieblkbnggfnde) ![](https://img.shields.io/chrome-web-store/stars/eabicnldgjknbifdgmnieblkbnggfnde) ![](https://img.shields.io/chrome-web-store/users/eabicnldgjknbifdgmnieblkbnggfnde)
 
-## v0.0.12 | Latest | Mar 04, 2024
+## v0.0.12 | Latest | Mar 10, 2024
 - Do you feel like its a hassle to turn off mic and cam whenever joining a meet, worry not, Beesy will auto disable them now !
+  - <video src="https://github.com/pi-ra/beesy-issue-tracker/assets/7107647/0253db9d-1e3e-4773-b2a3-c55ec9ca68dc"></video>
 - Still forget to record some important meetings, not anymore, we'll show a reminder right when you join a meet.
+  - <video src="https://github.com/pi-ra/beesy-issue-tracker/assets/7107647/f245be12-119f-42bc-883e-cb2a53f65f51"></video>
 - Recording plays only for a few seconds or doesn't play at all ? We've added an experimental fix, do check it out !
+  - <video src="https://github.com/pi-ra/beesy-issue-tracker/assets/7107647/5083e3bd-9e56-4a82-a503-77df1cb19e0a"></video>
 - Fix for mute and end call buttons that were updated in new Google meet interface 
 
 ## v0.0.11 | Aug 15, 2023
