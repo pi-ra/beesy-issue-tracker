@@ -1,9 +1,6 @@
-# Beesy: Record Google Meets
+# Thanks for installing/updating Beesy ! 
 
-*Beesy is FREE for local use, no signup and no cloud dependency at all!*
-
-Download: \
-[![Chrome](https://img.shields.io/chrome-web-store/v/eabicnldgjknbifdgmnieblkbnggfnde)](https://chrome.google.com/webstore/detail/beesy-record-google-meets/eabicnldgjknbifdgmnieblkbnggfnde) ![](https://img.shields.io/chrome-web-store/stars/eabicnldgjknbifdgmnieblkbnggfnde) ![](https://img.shields.io/chrome-web-store/users/eabicnldgjknbifdgmnieblkbnggfnde)
+What's new in Beesy ? Here you go 🎉
 
 ## v0.0.12 | Latest | Mar 10, 2024
 - Feel like it's a hassle to manually turn off mic and cam before joining a meet. Worry not, Beesy will auto-disable them for you !
