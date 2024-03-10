@@ -23,10 +23,10 @@ If you found a bug or would like to make a new feature request, feel free to cre
 
 ---
 
-PS: This extension does NOT track or share user data.
-However we use error collection service to improve Beesy and its user's experience.
+## ⚠️ Disclaimer
+A Beesy user should inform and get consent of other Google Meet members when recording is enabled on their system according to their local laws. Be a sound user and respect others privacy :)
 
 ---
 
-## ⚠️ Disclaimer
-A Beesy user should inform and get consent of other Google Meet members when recording is enabled on their system according to their local laws. Be a sound user and respect others privacy :)
+## Privacy Policy
+We respect your privacy. [Click here to read more](/PRIVACY_POLICY.md)
