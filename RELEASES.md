@@ -2,7 +2,7 @@
 
 What's new in Beesy ? Here you go 🎉
 
-## v0.0.12 | Latest | Mar 10, 2024
+## v0.0.12 | Latest | Mar 11, 2024
 - Feel like it's a hassle to manually turn off mic and cam before joining a meet. Worry not, Beesy will auto-disable them for you !
   - <video src="https://github.com/pi-ra/beesy-issue-tracker/assets/7107647/0253db9d-1e3e-4773-b2a3-c55ec9ca68dc"></video>
 - Keep forgetting to record meetings ? You can rely on Beesy to notify you now !
