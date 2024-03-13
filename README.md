@@ -15,6 +15,8 @@ Just install the extension and start recording. Features:
 6. ⌛ Show time since recording started in extension icon
 7. 📥 Recording is downloaded automatically when you leave a meeting
 8. 🔀 Show recording in progress and an easy way to switch to the active Meet tab
+9. 🎦 Auto-disable Google Meet media controls before joining a session
+10. 🔔 Notify you to start recording when joining a meet
 
 
 ---
