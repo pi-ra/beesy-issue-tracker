@@ -2,7 +2,12 @@
 
 What's new in Beesy ? Here you go 🎉
 
-## v0.0.12 | Latest | Mar 11, 2024
+## v0.0.13 | Latest | Mar 19, 2024
+- [<b>Major Feature</b>] Now you won't have to worry about losing recordings of important meetings ! Beesy saves recordings to user filesystem on the fly, even if browser/system crashes, you can retreive those recordings!
+  - <video src="https://github.com/pi-ra/beesy-issue-tracker/assets/7107647/7aa5fd06-dbb4-4c4e-a2dd-bbe9638b17c6"></video>
+- usability updates
+
+## v0.0.12 | Mar 11, 2024
 - Feel like it's a hassle to manually turn off mic and cam before joining a meet. Worry not, Beesy will auto-disable them for you !
   - <video src="https://github.com/pi-ra/beesy-issue-tracker/assets/7107647/0253db9d-1e3e-4773-b2a3-c55ec9ca68dc"></video>
 - Keep forgetting to record meetings ? You can rely on Beesy to notify you now !
