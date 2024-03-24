@@ -2,7 +2,10 @@
 
 What's new in Beesy ? Here you go 🎉
 
-## v0.0.13 | Latest | Mar 19, 2024
+## v0.0.14 | Mar 26, 2024
+- stability fixes.
+
+## v0.0.13 | Mar 19, 2024
 - [<b>Major Feature</b>] Now you won't have to worry about losing recordings of important meetings ! Beesy saves recordings to user filesystem on the fly, even if browser/system crashes, you can retreive those recordings!
   - <video src="https://github.com/pi-ra/beesy-issue-tracker/assets/7107647/7aa5fd06-dbb4-4c4e-a2dd-bbe9638b17c6"></video>
 - usability updates
