@@ -2,7 +2,7 @@
 
 What's new in Beesy ? Here you go 🎉
 
-## v0.0.14 | Mar 26, 2024
+## v0.0.14 | Mar 25, 2024
 - stability fixes.
 
 ## v0.0.13 | Mar 19, 2024
