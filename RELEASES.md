@@ -2,6 +2,10 @@
 
 What's new in Beesy ? Here you go 🎉
 
+## v0.0.15 | Oct 09, 2024
+- [<b>Major Feature</b>] Now your meetings are automatically transcribed using Google Meet captions ! You can change that in settings though.
+- stability fixes.
+
 ## v0.0.14 | Mar 25, 2024
 - stability fixes.
 
