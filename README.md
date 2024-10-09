@@ -8,16 +8,17 @@ Download: \
 Just install the extension and start recording. Features:
 
 1. 🎥 Record without signing up
-2. 🦺 You won't lose your recordings, even if your computer crashes!
-3. ⚡ Use shortcuts to start/stop recording. Configure them as per your need
-4. 🔊 Option to start video+audio or audio only recordings
-5. 🔇 Supports muting audio in recording by muting Google Meet, which is not possible with screen recorders
-6. 🎤 Automatically detect active mic when (dis)connecting headphones
-7. ⌛ Show time since recording started in extension icon
-8. 📥 Recording is downloaded automatically when you leave a meeting
-9. 🔀 Show recording in progress and an easy way to switch to the active Meet tab
-10. 🎦 Auto-disable Google Meet media controls before joining a session
-11. 🔔 Notify you to start recording when joining a meet
+2. ✍️ Meetings are transcribed automatically using Google captions
+3. 🦺 You won't lose your recordings, even if your computer crashes!
+4. ⚡ Use shortcuts to start/stop recording. Configure them as per your need
+5. 🔊 Option to start video+audio or audio only recordings
+6. 🔇 Supports muting audio in recording by muting Google Meet, which is not possible with screen recorders
+7. 🎤 Automatically detect active mic when (dis)connecting headphones
+8. ⌛ Show time since recording started in extension icon
+9. 📥 Recording is downloaded automatically when you leave a meeting
+10. 🔀 Show recording in progress and an easy way to switch to the active Meet tab
+11. 🎦 Auto-disable Google Meet media controls before joining a session
+12. 🔔 Notify you to start recording when joining a meet
 
 
 ---
