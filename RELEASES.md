@@ -2,6 +2,10 @@
 
 What's new in Beesy ? Here you go 🎉
 
+## v0.0.17 | Mar 10, 2025
+- Fix switching discarded tab
+- Update transcripts (v2) to latest Google specs based on Feb 26, 25
+
 ## v0.0.16 | Jan 20, 2025
 - Fix current user's name in transcripts 
 
