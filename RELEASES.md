@@ -3,8 +3,8 @@
 What's new in Beesy ? Here you go 🎉
 
 ## v0.0.17 | Mar 10, 2025
-- Fix switching discarded tab
-- Update transcripts (v2) to latest Google specs based on Feb 26, 25
+- Fix: unable to start record when switching from discarded/frozen/sleeping tab
+- Update transcripts (v2) based on latest Google UI based as of Feb 26, 2025
 
 ## v0.0.16 | Jan 20, 2025
 - Fix current user's name in transcripts 
