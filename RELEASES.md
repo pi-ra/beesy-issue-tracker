@@ -2,6 +2,10 @@
 
 What's new in Beesy ? Here you go 🎉
 
+## v0.0.18 | Mar 13, 2025
+- Fix: Occasional failures when downloading recordings from the Recording page.
+- Fix: transcription autoscroll in the popup view.
+
 ## v0.0.17 | Mar 10, 2025
 - Fix: unable to start recording when switching from discarded/frozen/sleeping tab
 - Update transcripts (v2) based on latest Google UI as of Feb 26, 2025
