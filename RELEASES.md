@@ -2,6 +2,9 @@
 
 What's new in Beesy ? Here you go 🎉
 
+## v0.0.19 | May 1, 2025
+- Fix: latest transcription changes by Google 
+
 ## v0.0.18 | Mar 13, 2025
 - Fix: Occasional failures when downloading recordings from the Recording page.
 - Fix: transcription autoscroll in the popup view.
