@@ -8,7 +8,7 @@ Your recordings are automatically uploaded to Google Drive. Here's what you need
 
 1. Uploads will go to the **same Google Drive account** used during **purchase**.
 
-2. Clicking the Google Drive icon triggers authentication.
+2. Clicking the Google Drive icon triggers authorization.
 
    > 👉 Ensure you **Select all** to upload and manage files.
 
