@@ -12,7 +12,7 @@ Your recordings are automatically uploaded to Google Drive. Here's what you need
 
    > 👉 Ensure you **Select all** to upload and manage files.
 
-   ![access provision in Google Drive](pics/image.png)
+   ![access provision in Google Drive](https://github.com/user-attachments/assets/a910861d-a473-4362-9266-b11ebc69151a)
 
 ---
 
