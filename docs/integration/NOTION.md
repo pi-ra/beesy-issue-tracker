@@ -34,6 +34,6 @@ Your transcripts are automatically uploaded to Notion. Here's what you need to k
    Deleting a transcript from the recording page **does NOT delete** it from Notion.
 
 4. **Notion Beesy Transcripts Page**: 
-   Please feel free to copy the transcripts for your use, but don't modify anything on this parent page. More details [here](https://thepiraorg.notion.site/18838e779a4c806aac6eff79805433d8?v=18838e779a4c8105a1c2000cc1ecb900&p=18838e779a4c81c5bc36f90ff489fd79&pm=s)
+   Use the transcripts as you wish, but please don't modify anything on this parent `Beesy Transcripts` page, it might break the uploads. More details [here](https://thepiraorg.notion.site/18838e779a4c806aac6eff79805433d8?v=18838e779a4c8105a1c2000cc1ecb900&p=18838e779a4c81c5bc36f90ff489fd79&pm=s)
 
 ---
