@@ -6,7 +6,6 @@ What's new in Beesy ? Here you go 🎉
 - ⭐ Added paid features 
   - Now you can enjoy automatic uploads to Google Drive for recordings and Notion for transcripts!
 
-
 ## v0.0.19 | May 1, 2025
 - Fix: Broken transcriptions due to recent changes by Google.
 
