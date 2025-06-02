@@ -1,4 +1,4 @@
-# Beesy: Record Google Meets
+# [Beesy: Record Google Meets](https://thepira.com/beesy/?utm_source=beesy-issue-tracker)
 
 *Beesy is FREE for local use, no signup and no cloud dependency at all!*
 
