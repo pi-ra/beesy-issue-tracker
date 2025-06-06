@@ -24,10 +24,10 @@ Your recordings are automatically uploaded to Google Drive. Here's what you need
 2. **Auto Resume**: 
    Uploads that get interrupted will **automatically resume** once you're back online.
 
-3. **Deletion Behaviour**
+3. **Deletion Behaviour**: 
    Deleting a recording from the extension's recording page **does NOT delete** it from your Google Drive.
 
-4. **Direct Download from Drive**
+4. **Direct Download from Drive**: 
    Recordings downloaded directly from Google Drive may **lack timestamps** or have **broken seek functionality**.
    To fix this, head to the extension setting's **`Magic`** tab and use `Fix unplayable/unseekable videos`.
 
