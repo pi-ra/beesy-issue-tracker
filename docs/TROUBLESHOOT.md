@@ -55,7 +55,7 @@ Large recordings may fail to download due to limited browser resources, follow t
 
 Recording may be delayed or fail to start within 5 seconds. Follow the steps below to fix it.
 
-1. Go [to Beesy extension details](chrome://extensions/?id=eabicnldgjknbifdgmnieblkbnggfnde) page
+1. Navigate to [Beesy extension details (chrome://extensions/?id=eabicnldgjknbifdgmnieblkbnggfnde)](chrome://extensions/?id=eabicnldgjknbifdgmnieblkbnggfnde) page
 2. Re-enable extension once
    ![toggle on-off-on](../media/trble-extn-toggle.png)
 3. Refresh active Google Meet page once again to re-active Beesy.
