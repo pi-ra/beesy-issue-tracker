@@ -1,6 +1,6 @@
-# Beesy: Troubleshooting Guide
+# Beesy: Troubleshooting Common Issues
 
-If you are facing some issue with the extension, you may rectify the same this guide:
+If the issue you're experiencing is not listed here, please report it on our bug tracker [here](https://github.com/pi-ra/beesy-issue-tracker/issues/new?labels=bug&template=bug_report.yml&title=).
 
 ### Recording download failed
 
@@ -53,10 +53,10 @@ Large recordings may fail to download due to limited browser resources, follow t
 
 ### Recording didn't start within 5 seconds
 
-Recording may be delayed or fail to start within 5 seconds. Follow the steps below to fix it.
+If you get the notification 'Recording failed to start...' then follow the steps below to fix it.
 
 1. Navigate to [Beesy extension (chrome://extensions/?id=eabicnldgjknbifdgmnieblkbnggfnde)](chrome://extensions/?id=eabicnldgjknbifdgmnieblkbnggfnde) details page
-2. Re-enable extension once
+2. Disable and then enable the extension
    ![toggle on-off-on](../media/trble-extn-toggle.png)
-3. Refresh active Google Meet page once again to re-active Beesy.
-4. You probably won’t see the error again. If it persists, try restarting your browser.
+3. You MUST refresh the Google Meet page after this, otherwise you might still face some issue.
+4. If the error persists, restart your browser which would fix it.
