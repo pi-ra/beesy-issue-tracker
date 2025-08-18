@@ -2,6 +2,12 @@
 
 If the issue you're experiencing is not listed here, please report it on our bug tracker [here](https://github.com/pi-ra/beesy-issue-tracker/issues/new?labels=bug&template=bug_report.yml&title=).
 
+# Table of Contents
+- [Beesy: Troubleshooting Common Issues](#Beesy-Troubleshooting-Common-Issues)
+    - [Recording download failed](#Recording-download-failed)
+    - [Recording didn't start within 5 seconds](#Recording-didnt-start-within-5-seconds)
+
+
 ### Recording download failed
 
 Large recordings may fail to download due to limited browser resources, follow these steps:
