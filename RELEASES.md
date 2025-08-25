@@ -2,8 +2,16 @@
 
 What's new in Beesy ? Here you go 🎉
 
+## v0.0.21 | Aug 26, 2025
+- Dynamic pagination for Recordings Table view
+- Space/Storage usage progress with helpful alerts when storage is low
+- More codec support for audio and video
+- UX revamps for popups
+- Addition of Troubleshooting messages/links
+- ⭐ Manage Subscripton table revamp
+
 ## v0.0.20 | June 2, 2025
-- ⭐ Added paid features 
+- ⭐ Added paid features
   - Now you can enjoy automatic uploads to Google Drive for recordings and Notion for transcripts!
 
 ## v0.0.19 | May 1, 2025
