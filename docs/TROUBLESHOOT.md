@@ -59,7 +59,7 @@ Large recordings may fail to download due to limited browser resources, follow t
 
 ### Recording didn't start within 5 seconds
 
-If you get the notification 'Recording failed to start...' then follow the steps below to fix it.
+If you get the notification 'Recording might have failed to start...' then follow the steps below to fix it.
 
 1. Navigate to [Beesy extension (chrome://extensions/?id=eabicnldgjknbifdgmnieblkbnggfnde)](chrome://extensions/?id=eabicnldgjknbifdgmnieblkbnggfnde) details page
 2. Disable and then enable the extension
