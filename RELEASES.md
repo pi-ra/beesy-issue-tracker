@@ -3,12 +3,13 @@
 What's new in Beesy ? Here you go 🎉
 
 ## v0.0.21 | Aug 26, 2025
-- Dynamic pagination for Recordings Table view
-- Space/Storage usage progress with helpful alerts when storage is low
-- More codec support for audio and video
-- UX revamps for popups
-- Addition of Troubleshooting messages/links
-- ⭐ Manage Subscripton table revamp
+- Notify users if it seems recording didn't start
+- Show how much storage left on Recording page
+- Dynamic pagination for Recording page
+- Add more codecs support for audio and video
+- Error notifications don't auto-close now
+- Added Troubleshooting guide
+- Updated `Manage subscription` page to show more relevant subscription info 
 
 ## v0.0.20 | June 2, 2025
 - ⭐ Added paid features
