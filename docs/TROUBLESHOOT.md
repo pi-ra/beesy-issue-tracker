@@ -5,6 +5,7 @@ If the issue you're experiencing is not listed here, please report it on our bug
 # Table of Contents
 - [Beesy: Troubleshooting Common Issues](#Beesy-Troubleshooting-Common-Issues)
     - [Recording download failed](#Recording-download-failed)
+    - [Can't play recording or only plays for few seconds ](#Recording-play-failed)
     - [Recording didn't start within 5 seconds](#Recording-didnt-start-within-5-seconds)
 
 
@@ -56,6 +57,13 @@ Large recordings may fail to download due to limited browser resources, follow t
    ```
 
 4. Paste the modified command in **Console** and press _Enter_ to download the file
+
+### Can't play recording or only plays for few seconds
+If the recorded video plays for only few seconds and then just ends, try these things:
+- try playing in VLC media player, recordings are in .webm format which isn't supported by default media players, but VLC should be able to play them
+- if you don't want to use VLC, then the video needs to be patched, that can be done in settings as shown below
+  - <img width="2242" height="1202" alt="image" src="https://github.com/user-attachments/assets/e1e45cf6-71cf-4a76-b743-ef0b619e6bb1" />
+
 
 ### Recording didn't start within 5 seconds
 
