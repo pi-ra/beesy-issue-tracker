@@ -8,7 +8,7 @@ What's new in Beesy ? Here you go 🎉
 - Dynamic pagination for Recording page
 - Add more codecs support for audio and video
 - Error notifications don't auto-close now
-- Added Troubleshooting guide
+- Added [Troubleshooting guide](https://github.com/pi-ra/beesy-issue-tracker/blob/main/docs/TROUBLESHOOT.md)
 - Updated `Manage subscription` page to show more relevant subscription info 
 
 ## v0.0.20 | June 2, 2025
