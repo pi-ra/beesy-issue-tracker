@@ -71,8 +71,9 @@ If the recorded video plays for only few seconds and then just ends, try these t
 
 If you get the notification 'Recording might have failed to start...' then follow the steps below to fix it.
 
-1. Navigate to [Beesy extension (chrome://extensions/?id=eabicnldgjknbifdgmnieblkbnggfnde)](chrome://extensions/?id=eabicnldgjknbifdgmnieblkbnggfnde) details page
-2. Disable and then enable the extension
+1. Make sure you're on the latest version of browser, older versions of browser might not be supported
+2. Navigate to [Beesy extension (chrome://extensions/?id=eabicnldgjknbifdgmnieblkbnggfnde)](chrome://extensions/?id=eabicnldgjknbifdgmnieblkbnggfnde) details page
+3. Disable and then enable the extension
    ![toggle on-off-on](../media/trble-extn-toggle.png)
-3. You MUST refresh the Google Meet page after this, otherwise you might still face some issue.
-4. If the error persists, restart your browser which would fix it.
+4. You MUST refresh the Google Meet page after this, otherwise you might still face some issue.
+5. If the error persists, restart your browser which would fix it.
