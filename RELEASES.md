@@ -2,6 +2,9 @@
 
 What's new in Beesy ? Here you go 🎉
 
+## v0.0.22 | Mar 03, 2026
+- Fix: Broken transcriptions due to recent changes by Google.
+
 ## v0.0.21 | Aug 26, 2025
 - Notify users if it seems recording didn't start
 - Show how much storage left on Recording page
