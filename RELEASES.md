@@ -2,6 +2,12 @@
 
 What's new in Beesy ? Here you go 🎉
 
+## v0.0.24 | Sept 06, 2026
+- Improved recording reliability, fixed double recording failure notifier and also hide transcript container completely
+
+## v0.0.23 | Sept 06, 2026
+- Recent google layout changes broke Beesy icon in GMeet bar and broke auto disable mic/camera functionality as well, fixed them
+
 ## v0.0.22 | Mar 03, 2026
 - Fix: Broken transcriptions due to recent changes by Google.
 
