@@ -2,6 +2,12 @@
 
 What's new in Beesy ? Here you go 🎉
 
+## v0.0.25 | Sept 20, 2026
+- fix different layouts for meet bar issue on personal and workspace account
+- fix transcript container issue on edge where it was not finding the container
+- also fixed the transcript functionality when toggling cc btn on/off mid recording, it was not working
+- fix the issue when recording failed for some reason and the extension doesn't let you start recording till recording tab is closed, so close recording tab safely
+
 ## v0.0.24 | Sept 04, 2026
 - Improved recording reliability, fixed double recording failure notifier and also hide transcript container completely
 
