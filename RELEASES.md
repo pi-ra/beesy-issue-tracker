@@ -4,7 +4,7 @@ What's new in Beesy ? Here you go 🎉
 
 ## v0.0.26 | Nov 10, 2026
 - fix transcripts not working because of new GMeet captions/translation popout UI
-- fix file name not having meetID because of Google switching to to /meet/<code> urls scheme
+- fix filename not having meetID because of Google switching to /meet/<code> urls scheme
 
 ## v0.0.25 | Sept 20, 2026
 - fix different layouts for meet bar issue on personal and workspace account
